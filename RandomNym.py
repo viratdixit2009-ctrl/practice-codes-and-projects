@@ -24,7 +24,8 @@ while attempts < max_attempts :
 	else:
 		print(f"***||||||:Congratulations you have guessed the right number :||||||***")
 	print("you've got it in {attempts} tries ")
-	    break
+  break 
+	  
 	else:
 		print(f"sorry you are out of attempt ! the number was {secret_num}.")
 		
